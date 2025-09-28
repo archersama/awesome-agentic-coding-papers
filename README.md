@@ -12,6 +12,24 @@ This is a paper list for agentic coding
 
 ## Review
 
+## Agentic Coding LLM 
+- Qwen3-Coder: Agentic Coding in the World，202508, [[blog]](https://qwen.ai/blog?id=d927d7d2e59d059045ce758ded34f98c0186d2d7&from=research.research-list)
+- Kimi K2: Open Agentic Intelligence，20250905，[[paper]](https://arxiv.org/abs/2507.20534)
+- GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models,[[paper]](https://arxiv.org/abs/2508.06471)
+- Openai Codex ,[[blog]](https://openai.com/zh-Hans-CN/index/introducing-codex/)
+- Claude,[[blog]](https://www.anthropic.com/claude/sonnet)
+
+
+## Training Enviorment with Opensource Docker
+- Training Software Engineering Agents and Verifiers with SWE-Gym,ICML 2025,[[paper]](https://arxiv.org/abs/2412.21139)
+- SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents, arxiv 2025,[[paper]](https://arxiv.org/abs/2505.20411)
+- R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents,COLM 2025,[[paper]](https://arxiv.org/abs/2504.07164)
+
+## Training Enviorment without Opensource Docker
+
+- SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories ,arxiv 2025,[[paper]](https://arxiv.org/pdf/2509.08724)
+
+
 ## Agentic Coding Framework(Scaffolding)
 - SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering,NIPS,2024,[[paper]](https://arxiv.org/abs/2405.15793)
 - Agentless: Demystifying LLM-based Software Engineering Agents,Proceedings of the ACM on Software Engineering,2024,[[paper]](https://arxiv.org/abs/2407.01489)
