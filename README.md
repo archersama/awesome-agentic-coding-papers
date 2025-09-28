@@ -15,11 +15,14 @@ This is a paper list for agentic coding
 ## Agentic Coding Framework(Scaffolding)
 - SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering,NIPS,2024,[[paper]](https://arxiv.org/abs/2405.15793)
 - Agentless: Demystifying LLM-based Software Engineering Agents,Proceedings of the ACM on Software Engineering,2024,[[paper]](https://arxiv.org/abs/2407.01489)
+- OpenHands: An Open Platform for AI Software Developers as Generalist Agents,ICLR,2025,[[paper]](https://arxiv.org/abs/2407.16741)
+- Moatless Tools,2024,[[project]](https://github.com/aorwall/moatless-tools)
+- Mini-swe-agent,2025,[[project]](https://github.com/SWE-agent/mini-swe-agent)
+
 
 
 
 ## Evaluation
-
 - SWE-bench: Can Language Models Resolve Real-World GitHub Issues?, ICLR, 2024, [[paper]](https://arxiv.org/abs/2310.06770)
 - SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?,arxiv, 2025 [[paper]](https://arxiv.org/abs/2509.16941)
 - Terminal-bench: a benchmark for ai agents in terminal environments ,2025,[[project]](https://www.tbench.ai/)
