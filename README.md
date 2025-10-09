@@ -37,6 +37,7 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 
 
 ### Agentic Coding Frameworks (Scaffolding)
+- **Executable Code Actions Elicit Better LLM Agents**,ICML 2024,[[paper]](https://arxiv.org/abs/2402.01030)
 - **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering**, NeurIPS 2024, [[Paper]](https://arxiv.org/abs/2405.15793)
 - **Agentless: Demystifying LLM-based Software Engineering Agents**, *Proceedings of the ACM on Software Engineering*, 2024, [[Paper]](https://arxiv.org/abs/2407.01489)
 - **OpenHands: An Open Platform for AI Software Developers as Generalist Agents**, ICLR 2025, [[Paper]](https://arxiv.org/abs/2407.16741)
