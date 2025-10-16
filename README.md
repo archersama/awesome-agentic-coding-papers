@@ -24,6 +24,8 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 - **GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models**, 2025.08, [[Paper]](https://arxiv.org/abs/2508.06471)
 - **OpenAI Codex**,2025.09, [[Blog]](https://openai.com/zh-Hans-CN/index/introducing-codex/)
 - **Claude 4 Sonnet**,2025.05, [[Blog]](https://www.anthropic.com/claude/sonnet)
+- **Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents**，2025.09，[[paper]](https://www.arxiv.org/abs/2509.23045)
+
 
 
 ### Training Environments with Open-Source Docker
