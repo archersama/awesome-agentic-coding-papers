@@ -47,6 +47,21 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 - **Mini-swe-agent**, 2025, [[Project]](https://github.com/SWE-agent/mini-swe-agent)
 
 
+### Intelligent Code IDEs
+- Cursor [[Project]](https://cursor.com/cn)
+- JetBrains AI Assistant [[Project]](https://www.jetbrains.com/ai/)
+- GitHub Copilot [[Project]](https://github.com/features/copilot)
+- TONGYI Lingma [[Project]](https://tongyi.aliyun.com/lingma)
+- Tencent CodeBuddy [[Project]](https://www.codebuddy.com/)
+- Trae [[Project]](https://www.trae.cn/)
+
+### Intelligent Code CLIs
+- Gemini CLI [[Project]](https://github.com/google-gemini/gemini-cli)
+- Aider [[Project]](https://github.com/paul-gauthier/aider)
+- Codex [[Project]](https://github.com/openai/codex)
+- Claude Code [[Project]](https://www.claude.com/product/claude-code)
+
+
 ---
 
 *Last updated: Oct 16 2025*
