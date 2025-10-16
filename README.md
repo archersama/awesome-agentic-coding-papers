@@ -49,7 +49,6 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 
 ### Intelligent Code IDEs
 - Cursor [[Project]](https://cursor.com/cn)
-- JetBrains AI Assistant [[Project]](https://www.jetbrains.com/ai/)
 - GitHub Copilot [[Project]](https://github.com/features/copilot)
 - TONGYI Lingma [[Project]](https://tongyi.aliyun.com/lingma)
 - Tencent CodeBuddy [[Project]](https://www.codebuddy.com/)
