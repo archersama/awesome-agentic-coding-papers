@@ -22,6 +22,7 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 - SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?,arxiv, 2025 [[paper]](https://arxiv.org/abs/2509.16941)
 - Terminal-bench: a benchmark for ai agents in terminal environments ,2025,[[project]](https://www.tbench.ai/)
 - SWE-bench Goes Live! arxiv,2025,[[paper]](https://arxiv.org/abs/2505.23419)
+- SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains? ICLR 2025，[[paper]](https://arxiv.org/abs/2410.03859)
 
 
 ### Agentic Coding LLMs
@@ -43,6 +44,9 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 ### Training Environments Without Open-Source Docker
 - **SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories**, arXiv 2025, [[Paper]](https://arxiv.org/pdf/2509.08724)
 
+
+### Code Localization
+- **LocAgent: Graph-Guided LLM Agents for Code Localization** ,ACL 2025, [[paper]](https://arxiv.org/abs/2503.09089)
 
 ### Agentic Coding Frameworks (Scaffolding)
 - **Executable Code Actions Elicit Better LLM Agents**,ICML 2024,[[paper]](https://arxiv.org/abs/2402.01030)
