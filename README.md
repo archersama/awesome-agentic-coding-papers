@@ -15,7 +15,7 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 ## Paper List
 
 ### Reviews
-*(No papers listed yet—contributions welcome!)*
+- **Large Language Model-Based Agents for Software Engineering: A Survey**,arxiv 2024,[[paper]](https://arxiv.org/abs/2409.02977)
 
 ## Evaluation
 - SWE-bench: Can Language Models Resolve Real-World GitHub Issues?, ICLR, 2024, [[paper]](https://arxiv.org/abs/2310.06770)
@@ -23,7 +23,7 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 - Terminal-bench: a benchmark for ai agents in terminal environments ,2025,[[project]](https://www.tbench.ai/)
 - SWE-bench Goes Live! arxiv,2025,[[paper]](https://arxiv.org/abs/2505.23419)
 - SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains? ICLR 2025，[[paper]](https://arxiv.org/abs/2410.03859)
-
+- Multi-SWE-bench: A Multilingual Benchmarkfor Issue Resolving,arxiv 2025,[[paper]](https://arxiv.org/abs/2504.02605)
 
 ### Agentic Coding LLMs
 - **Qwen3-Coder: Agentic Coding in the World**, 2025.08, [[Blog]](https://qwen.ai/blog?id=d927d7d2e59d059045ce758ded34f98c0186d2d7&from=research.research-list)
@@ -47,6 +47,9 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 
 ### Code Localization
 - **LocAgent: Graph-Guided LLM Agents for Code Localization** ,ACL 2025, [[paper]](https://arxiv.org/abs/2503.09089)
+- **Improving Code Localization with Repository Memory**, arxiv 2025, [[paper]](https://arxiv.org/abs/2510.01003)
+- **SweRank: Software Issue Localization with Code Ranking**,arxiv 2025,[[paper]](https://arxiv.org/abs/2505.07849)
+
 
 ### Agentic Coding Frameworks (Scaffolding)
 - **Executable Code Actions Elicit Better LLM Agents**,ICML 2024,[[paper]](https://arxiv.org/abs/2402.01030)
