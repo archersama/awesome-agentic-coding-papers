@@ -17,6 +17,12 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 ### Reviews
 *(No papers listed yet—contributions welcome!)*
 
+## Evaluation
+- SWE-bench: Can Language Models Resolve Real-World GitHub Issues?, ICLR, 2024, [[paper]](https://arxiv.org/abs/2310.06770)
+- SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?,arxiv, 2025 [[paper]](https://arxiv.org/abs/2509.16941)
+- Terminal-bench: a benchmark for ai agents in terminal environments ,2025,[[project]](https://www.tbench.ai/)
+- SWE-bench Goes Live! arxiv,2025,[[paper]](https://arxiv.org/abs/2505.23419)
+
 
 ### Agentic Coding LLMs
 - **Qwen3-Coder: Agentic Coding in the World**, 2025.08, [[Blog]](https://qwen.ai/blog?id=d927d7d2e59d059045ce758ded34f98c0186d2d7&from=research.research-list)
