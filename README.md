@@ -45,6 +45,9 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 - **SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories**, arXiv 2025, [[Paper]](https://arxiv.org/pdf/2509.08724)
 
 
+### Code Edit
+- **EDIT-Bench: Evaluating LLM Abilities to Perform Real-World Instructed Code Edits**，arxiv 2025, [[paper]](https://arxiv.org/abs/2511.04486) 
+
 ### Code Localization
 - **LocAgent: Graph-Guided LLM Agents for Code Localization** ,ACL 2025, [[paper]](https://arxiv.org/abs/2503.09089)
 - **Improving Code Localization with Repository Memory**, arxiv 2025, [[paper]](https://arxiv.org/abs/2510.01003)
