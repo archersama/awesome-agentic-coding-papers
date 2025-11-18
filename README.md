@@ -7,7 +7,7 @@ A curated list of research papers, frameworks, and resources focused on agentic 
 
 This repository aggregates key works in agentic coding, covering large language models (LLMs) specialized for coding, training environments, and agent frameworks. It aims to track advancements in AI-driven software engineering.
 
-**Keywords:** *Agentic Coding, Pretrained Models, Large Language Models (LLMs), Software Engineering Agents*
+**Keywords:** *Agentic Coding, Large Language Models (LLMs), Software Engineering Agents*
 
 Contributions are welcome! Please open an issue or submit a pull request to add new papers/resources.
 
@@ -35,23 +35,26 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 
 
 
-### Training Environments with Open-Source Docker
+### Training Environments Generation with Open-Source Docker
 - **Training Software Engineering Agents and Verifiers with SWE-Gym**, ICML 2025, [[Paper]](https://arxiv.org/abs/2412.21139)
 - **SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents**, arXiv 2025, [[Paper]](https://arxiv.org/abs/2505.20411)
 - **R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents**, COLM 2025, [[Paper]](https://arxiv.org/abs/2504.07164)
 
 
-### Training Environments Without Open-Source Docker
+### Training Environments Generation Without Open-Source Docker
 - **SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories**, arXiv 2025, [[Paper]](https://arxiv.org/pdf/2509.08724)
+  
+### Code Understanding
+- **SWE-QA: Can Language Models Answer Repository-level Code Questions?**， arxiv 2025，[[paper]](https://arxiv.org/pdf/2509.14635)
 
-
-### Code Edit
-- **EDIT-Bench: Evaluating LLM Abilities to Perform Real-World Instructed Code Edits**，arxiv 2025, [[paper]](https://arxiv.org/abs/2511.04486) 
 
 ### Code Localization
 - **LocAgent: Graph-Guided LLM Agents for Code Localization** ,ACL 2025, [[paper]](https://arxiv.org/abs/2503.09089)
 - **Improving Code Localization with Repository Memory**, arxiv 2025, [[paper]](https://arxiv.org/abs/2510.01003)
 - **SweRank: Software Issue Localization with Code Ranking**,arxiv 2025,[[paper]](https://arxiv.org/abs/2505.07849)
+
+### Code Edit
+- **EDIT-Bench: Evaluating LLM Abilities to Perform Real-World Instructed Code Edits**，arxiv 2025, [[paper]](https://arxiv.org/abs/2511.04486) 
 
 
 ### Agentic Coding Frameworks (Scaffolding)
@@ -79,5 +82,5 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 
 ---
 
-*Last updated: Oct 16 2025*
+*Last updated: Nov 2025*
 
