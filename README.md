@@ -29,9 +29,11 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 - **Qwen3-Coder: Agentic Coding in the World**, 2025.08, [[Blog]](https://qwen.ai/blog?id=d927d7d2e59d059045ce758ded34f98c0186d2d7&from=research.research-list)
 - **Kimi K2: Open Agentic Intelligence**, 2025.09.05, [[Paper]](https://arxiv.org/abs/2507.20534)
 - **GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models**, 2025.08, [[Paper]](https://arxiv.org/abs/2508.06471)
+- **GLM-4.6**，2025.10, [[Blog]](https://z.ai/blog/glm-4.6)
 - **OpenAI Codex**,2025.09, [[Blog]](https://openai.com/zh-Hans-CN/index/introducing-codex/)
-- **Claude 4 Sonnet**,2025.05, [[Blog]](https://www.anthropic.com/claude/sonnet)
 - **Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents**，2025.09，[[paper]](https://www.arxiv.org/abs/2509.23045)
+- **Claude 4.5 Sonnet**，[[model Card]](https://assets.anthropic.com/m/12f214efcc2f457a/original/Claude-Sonnet-4-5-System-Card.pdf)
+- **Claude 4.5 Opus**，[[Model Card]](https://assets.anthropic.com/m/64823ba7485345a7/Claude-Opus-4-5-System-Card.pdf)
 
 
 
@@ -82,5 +84,5 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 
 ---
 
-*Last updated: Nov 2025*
+*Last updated: Sep 2025*
 
