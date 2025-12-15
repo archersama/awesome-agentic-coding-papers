@@ -24,6 +24,7 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 - SWE-bench Goes Live! arxiv,2025,[[paper]](https://arxiv.org/abs/2505.23419)
 - SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains? ICLR 2025，[[paper]](https://arxiv.org/abs/2410.03859)
 - Multi-SWE-bench: A Multilingual Benchmarkfor Issue Resolving,arxiv 2025,[[paper]](https://arxiv.org/abs/2504.02605)
+- SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models，arxiv 2025，[[paper]](https://arxiv.org/pdf/2511.05459)
 
 ### Agentic Coding LLMs
 - **Qwen3-Coder: Agentic Coding in the World**, 2025.08, [[Blog]](https://qwen.ai/blog?id=d927d7d2e59d059045ce758ded34f98c0186d2d7&from=research.research-list)
