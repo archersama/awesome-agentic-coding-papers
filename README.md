@@ -1,6 +1,6 @@
 # Awesome Agentic Coding Papers
 
-A personal curated list of research papers, frameworks, and resources focused on agentic coding—where AI agents leverage language models for software engineering tasks. I include papers that I find valuable, but the list may not be exhaustive. Contributions and suggestions are welcome!
+A personal curated list of research papers, frameworks, and resources focused on agentic coding—where AI agents leverage language models for software engineering tasks. As a developer of GLM, I try to include papers that I find valuable and insightful, but I'm sure there are many great works I've missed. Contributions and suggestions are very welcome!
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
