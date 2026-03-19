@@ -1,15 +1,13 @@
 # Awesome Agentic Coding Papers
 
-A curated list of research papers, frameworks, and resources focused on agentic coding—where AI agents leverage language models for software engineering tasks.
+A personal curated list of research papers, frameworks, and resources focused on agentic coding—where AI agents leverage language models for software engineering tasks. I include papers that I find valuable, but the list may not be exhaustive. Contributions and suggestions are welcome!
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-This repository aggregates key works in agentic coding, covering large language models (LLMs) specialized for coding, training environments, and agent frameworks. It aims to track advancements in AI-driven software engineering.
-
 **Keywords:** *Agentic Coding, Large Language Models (LLMs), Software Engineering Agents*
 
-Contributions are welcome! Please open an issue or submit a pull request to add new papers/resources.
+Please open an issue or submit a pull request if you'd like to add papers or resources that are missing.
 
 
 ## Paper List
@@ -35,16 +33,32 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 - **Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents**，2025.09，[[paper]](https://www.arxiv.org/abs/2509.23045)
 - **Claude 4.5 Sonnet**，[[model Card]](https://assets.anthropic.com/m/12f214efcc2f457a/original/Claude-Sonnet-4-5-System-Card.pdf)
 - **Claude 4.5 Opus**，[[Model Card]](https://assets.anthropic.com/m/64823ba7485345a7/Claude-Opus-4-5-System-Card.pdf)
+- **Claude Sonnet 4.6**, 2026.02, [[Model Card]](https://www-cdn.anthropic.com/78073f739564e986ff3e28522761a7a0b4484f84.pdf)
+- **Claude Opus 4.6**, 2026.02, [[Model Card]](https://www-cdn.anthropic.com/14e4fb01875d2a69f646fa5e574dea2b1c0ff7b5.pdf)
+- **Kimi K2.5: Visual Agentic Intelligence**, 2026.02, [[Paper]](https://arxiv.org/abs/2602.02276)
+- **GLM-5: from Vibe Coding to Agentic Engineering**, 2026.02, [[Paper]](https://arxiv.org/abs/2602.15763)
+
+
+### Agentic Code RL
+- **Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem**, arXiv 2025, [[Paper]](https://arxiv.org/abs/2512.24873)
+
+### Terminal Task
+
+#### Task Synthesis
+- **On Data Engineering for Scaling LLM Terminal Capabilities**, arXiv 2026, [[Paper]](https://arxiv.org/abs/2602.21193)
 
 
 
-### Training Environments Generation with Open-Source Docker
+
+
+### SWE Task
+
+#### Training Environments Generation with Open-Source Docker
 - **Training Software Engineering Agents and Verifiers with SWE-Gym**, ICML 2025, [[Paper]](https://arxiv.org/abs/2412.21139)
 - **SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents**, arXiv 2025, [[Paper]](https://arxiv.org/abs/2505.20411)
 - **R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents**, COLM 2025, [[Paper]](https://arxiv.org/abs/2504.07164)
 
-
-### Training Environments Generation Without Open-Source Docker
+#### Training Environments Generation Without Open-Source Docker
 - **SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories**, arXiv 2025, [[Paper]](https://arxiv.org/pdf/2509.08724)
   
 ### Code Understanding
@@ -85,5 +99,5 @@ Contributions are welcome! Please open an issue or submit a pull request to add 
 
 ---
 
-*Last updated: Sep 2025*
+*Last updated: Mar 2026*
 
