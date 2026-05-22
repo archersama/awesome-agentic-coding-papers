@@ -13,7 +13,17 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 ## Paper List
 
 ### Reviews
-- **Large Language Model-Based Agents for Software Engineering: A Survey**,arxiv 2024,[[paper]](https://arxiv.org/abs/2409.02977)
+
+#### Agentic Coding / SE Agents
+- **A Survey on Code Generation with LLM-based Agents**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2508.00083)
+- **AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2508.11126)
+- **A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2510.09721)
+- **Toward Agentic Software Engineering Beyond Code: Framing Vision, Values, and Vocabulary**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2510.19692)
+
+#### Agentic RL
+- **The Landscape of Agentic Reinforcement Learning for LLMs: A Survey**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2509.02547)
+
+
 
 ## Evaluation
 - SWE-bench: Can Language Models Resolve Real-World GitHub Issues?, ICLR, 2024, [[paper]](https://arxiv.org/abs/2310.06770)
@@ -37,10 +47,16 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 - **Claude Opus 4.6**, 2026.02, [[Model Card]](https://www-cdn.anthropic.com/14e4fb01875d2a69f646fa5e574dea2b1c0ff7b5.pdf)
 - **Kimi K2.5: Visual Agentic Intelligence**, 2026.02, [[Paper]](https://arxiv.org/abs/2602.02276)
 - **GLM-5: from Vibe Coding to Agentic Engineering**, 2026.02, [[Paper]](https://arxiv.org/abs/2602.15763)
+- **GLM-5.1: Towards Long-Horizon Tasks**, 2026.04, [[Blog]](https://z.ai/blog/glm-5.1) [[HF]](https://huggingface.co/zai-org/GLM-5.1)
+- **Claude Opus 4.7**, 2026.04, [[Blog]](https://www.anthropic.com/news/claude-opus-4-7)
+- **Qwen3.5-Omni Technical Report**, 2026.04, [[Paper]](https://arxiv.org/abs/2604.15804)
+- **Kimi K2.6: Advancing Open-Source Coding**, 2026.04, [[Blog]](https://www.kimi.com/blog/kimi-k2-6) [[HF]](https://huggingface.co/moonshotai/Kimi-K2.6)
+- **DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence**, 2026.04, [[HF]](https://huggingface.co/collections/deepseek-ai/deepseek-v4)
 
 
 ### Agentic Code RL
 - **Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem**, arXiv 2025, [[Paper]](https://arxiv.org/abs/2512.24873)
+- **Composer 2 Technical Report**, arXiv 2026, [[Paper]](https://arxiv.org/abs/2603.24477)
 
 ### Terminal Task
 
@@ -79,7 +95,6 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 - **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering**, NeurIPS 2024, [[Paper]](https://arxiv.org/abs/2405.15793)
 - **Agentless: Demystifying LLM-based Software Engineering Agents**, *Proceedings of the ACM on Software Engineering*, 2024, [[Paper]](https://arxiv.org/abs/2407.01489)
 - **OpenHands: An Open Platform for AI Software Developers as Generalist Agents**, ICLR 2025, [[Paper]](https://arxiv.org/abs/2407.16741)
-- **Moatless Tools**, 2024, [[Project]](https://github.com/aorwall/moatless-tools)
 - **Mini-swe-agent**, 2025, [[Project]](https://github.com/SWE-agent/mini-swe-agent)
 
 
@@ -99,5 +114,5 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 
 ---
 
-*Last updated: Mar 2026*
+*Last updated: May 2026*
 
