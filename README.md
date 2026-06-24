@@ -19,6 +19,7 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 - **AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2508.11126)
 - **A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2510.09721)
 - **Toward Agentic Software Engineering Beyond Code: Framing Vision, Values, and Vocabulary**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2510.19692)
+- **Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime**, Preprints 2026, [[Paper]](https://www.preprints.org/manuscript/202603.1756/v2)
 
 #### Agentic RL
 - **The Landscape of Agentic Reinforcement Learning for LLMs: A Survey**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2509.02547)
