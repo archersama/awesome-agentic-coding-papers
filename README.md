@@ -33,6 +33,7 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 - SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains? ICLR 2025，[[paper]](https://arxiv.org/abs/2410.03859)
 - Multi-SWE-bench: A Multilingual Benchmarkfor Issue Resolving,arxiv 2025,[[paper]](https://arxiv.org/abs/2504.02605)
 - SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models，arxiv 2025，[[paper]](https://arxiv.org/pdf/2511.05459)
+- Human-AI Productivity Claims Should Be Reported as Time-to-Acceptance Under Explicit Acceptance Tests, TechRxiv, 2026, [[paper]](https://doi.org/10.36227/techrxiv.177040595.50580086/v1)
 
 ### Agentic Coding LLMs
 - **Qwen3-Coder: Agentic Coding in the World**, 2025.08, [[Blog]](https://qwen.ai/blog?id=d927d7d2e59d059045ce758ded34f98c0186d2d7&from=research.research-list)
