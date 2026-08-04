@@ -52,6 +52,7 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 - **Qwen3.5-Omni Technical Report**, 2026.04, [[Paper]](https://arxiv.org/abs/2604.15804)
 - **Kimi K2.6: Advancing Open-Source Coding**, 2026.04, [[Blog]](https://www.kimi.com/blog/kimi-k2-6) [[HF]](https://huggingface.co/moonshotai/Kimi-K2.6)
 - **DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence**, 2026.04, [[HF]](https://huggingface.co/collections/deepseek-ai/deepseek-v4)
+- **Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models**, 2026.07, [[Paper]](https://arxiv.org/abs/2607.12463) [[Code]](https://github.com/TIGER-AI-Lab/FIM-Midtraining) [[HF]](https://huggingface.co/collections/TIGER-Lab/fim-midtraining)
 
 
 ### Agentic Code RL
